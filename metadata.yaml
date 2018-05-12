@@ -1,0 +1,38 @@
+_repo: Seeing-Things-at-Night_35793
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35793-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Broun, Heywood
+    alias: Broun, Heywood Campbell
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '5623'
+    url: http://www.gutenberg.org/2009/agents/5623
+    wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
+description: ''
+gutenberg_issued: '2011-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: 'Introduction -- The fifty-first dragon -- How to be a lion tamer
+  -- H. G. Wells of England -- Promises and contracts and clocks -- Alcoholic liquors
+  -- Some of my best friends are Yale men -- Bacillus and circumstance -- Death says
+  it isn''t so -- The library of a lover -- A bolt from the blue -- Inasmuch -- H.
+  3rd: the review of a continuous performance -- Southpaws -- Michael -- Buying a
+  farm -- Romance and reticence -- A robe for the king -- Turning thirty -- Margaret
+  Fuller -- Holding a baby -- Red magic -- The last trump -- Spanking manners -- Park
+  Row and Fleet Street -- Merrick''s women -- Just around the corner -- Reform through
+  reading -- Shush! -- A test for critics -- Gray gods and green goddesses -- The
+  cosmic kid -- A Jung man''s fancy -- Deburau -- A reviewer''s notebook.'
+title: Seeing Things at Night
+url: http://www.gutenberg.org/ebooks/35793
